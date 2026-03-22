@@ -21,3 +21,11 @@
 - **MobaXterm**  
   用途：使用 Linux 命令、远程连接服务器（下载王锐老师论文的数据集（TUAB and TUEV））  
   位置：C:\Program Files\MobaXterm  
+
+- **PotPlayer**
+  用途：播放下载的电影，解码高手来的
+  位置：D:\PotPlayer
+
+- **Snipaste**
+  用途：截图软件
+  位置：D:\Snipaste
