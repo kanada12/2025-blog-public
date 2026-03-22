@@ -128,13 +128,6 @@
 		"status": "disconnected"
 	},
 	{
-		"name": "Niracler 的博物志",
-		"url": "https://niracler.com/",
-		"avatar": "https://niracler.com/favicon.svg",
-		"description": "小透明，偶尔更新一篇blog。但是网站风格还是有特点的，可作为设计 blog 时的参考。",
-		"stars": 2
-	},
-	{
 		"name": "阿猫的博客",
 		"url": "https://ameow.xyz/",
 		"avatar": "https://ameow.xyz/upload/favicon.png",
@@ -153,13 +146,6 @@
 		"avatar": "https://www.vio.vin/apple-touch-icon.png",
 		"url": "https://www.vio.vin/",
 		"description": "23 年新晋散修，如他所说，一天倒腾一些奇怪的东西。应该是以后端为主，喜欢完一些硬件。静森系 blog，25年 blog 稳定输出。",
-		"stars": 2
-	},
-	{
-		"name": "搬砖日记",
-		"avatar": "https://banzhuanriji.com/img/icon.ico",
-		"url": "https://banzhuanriji.com/",
-		"description": "白底黑字。但是打理得挺好的。应该是 Andriod 开发者，24 年开始分享各种探索。摸不清根底。",
 		"stars": 2
 	},
 	{
