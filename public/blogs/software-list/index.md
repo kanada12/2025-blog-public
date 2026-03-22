@@ -7,7 +7,7 @@
   位置：D:\geek 
 
 - **WinSCP**  
-  用途：下载王锐老师论文的数据集（TUAB and TUAE）  
+  用途：下载王锐老师论文的数据集（TUAB and TUEV）  
   位置：D:\WinSCP 
 
 - **Cursor**  
@@ -19,5 +19,5 @@
   位置：在线平台（无本地安装）：https://vercel.com/kanada12s-projects  
 
 - **MobaXterm**  
-  用途：使用 Linux 命令、远程连接服务器（下载王锐老师论文的数据集（TUAB and TUAE））  
+  用途：使用 Linux 命令、远程连接服务器（下载王锐老师论文的数据集（TUAB and TUEV））  
   位置：C:\Program Files\MobaXterm  
