@@ -66,14 +66,14 @@
 			"type": "github",
 			"value": "https://github.com/kanada12",
 			"label": "Github",
-			"order": 2
+			"order": 1
 		},
 		{
 			"id": "email",
 			"type": "email",
 			"value": "1033230323@stu.jiangnan.edu.cn",
 			"label": "",
-			"order": 1
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
