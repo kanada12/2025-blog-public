@@ -34,7 +34,8 @@
 在阅读 **BIOT** 和 **LaBraM** 的过程中发现，其使用的 EEG 数据集来源于 Joe 教授团队（NEDC/TUH）。  
 若想获取数据，需要向其团队提交申请。以下为与团队的邮件交流示例：  
 
-> ### Download The TUH EEG Corpus
+> **Download The TUH EEG Corpus** 
+>
 > **发件人**：严子熠 <1033230323@stu.jiangnan.edu.cn>  
 > **收件人**：help <help@nedcdata.org>  
 > **时间**：2026年3月17日(星期二) 下午5:11  
@@ -54,7 +55,8 @@
 > Jiangnan University
 
 
-> ### NEDC TUH EEG: credentials
+> **NEDC TUH EEG: credentials**
+>
 > **发件人**：Joseph Picone <joseph.picone@gmail.com>  
 > **收件人**：undisclosed-recipients  
 > **时间**：2026年3月17日(星期二) 晚上9:29  
@@ -81,7 +83,8 @@
 > Best regards,  
 > Joe Picone
 
-> ### Re: NEDC TUH EEG: credentials
+> ** Re: NEDC TUH EEG: credentials**
+>
 > **发件人**：严子熠 <1033230323@stu.jiangnan.edu.cn>  
 > **收件人**：Joseph Picone <joseph.picone@gmail.com>  
 > **时间**：2026年3月19日(星期四) 上午9:56  
@@ -95,7 +98,8 @@
 > Best regards,  
 > Ziyi Yan
 
-> ### NEDC TUH EEG: authorized users
+> **NEDC TUH EEG: authorized users**
+>
 > **发件人**：Joseph Picone <joseph.picone@gmail.com>  
 > **收件人**：undisclosed-recipients  
 > **时间**：2026年3月20日(星期五) 凌晨3:21  
@@ -158,7 +162,8 @@
 > Best regards,  
 > Joe Picone
 
-> ### Re: NEDC TUH EEG: authorized users
+> **Re: NEDC TUH EEG: authorized users**
+>
 > **发件人**：严子熠 <1033230323@stu.jiangnan.edu.cn>  
 > **收件人**：Joseph Picone <joseph.picone@gmail.com>  
 > **时间**：2026年3月21日(星期六) 上午8:42  
