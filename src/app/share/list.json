@@ -153,6 +153,16 @@
 		"stars": 5
 	},
 	{
+		"name": "Making Software",
+		"logo": "https://www.makingsoftware.com/favicon.ico",
+		"url": "https://www.makingsoftware.com/",
+		"description": "面向软件设计和开发人员的参考手册。样式很棒的学习网站。",
+		"tags": [
+			"学习"
+		],
+		"stars": 4
+	},
+	{
 		"name": "Ease 函数参考",
 		"logo": "https://easings.net/96.8aa68ac4.png",
 		"url": "https://easings.net/",
@@ -179,6 +189,16 @@
 		"description": "方格世界的 Web3D，场景渲染非常棒，非常值得体验",
 		"tags": [
 			"3D"
+		],
+		"stars": 3
+	},
+	{
+		"name": "Papers with Code",
+		"logo": "blob:https://2025-blog-public-gray.vercel.app/832494cf-f610-47df-89ed-da2d2e0732ec",
+		"url": "https://huggingface.co/papers/trending",
+		"description": "将论文与对应的开源代码（GitHub）关联起来。你不仅可以看摘要，还能直接看到论文的性能排行榜和代码实现",
+		"tags": [
+			"论文"
 		],
 		"stars": 3
 	}
