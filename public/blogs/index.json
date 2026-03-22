@@ -1,5 +1,14 @@
 [
   {
+    "slug": "Terminal-command",
+    "title": "终端命令",
+    "tags": [],
+    "date": "2026-03-22T16:15",
+    "summary": "",
+    "hidden": false,
+    "category": "复制-粘贴"
+  },
+  {
     "slug": "TUABTUEV-download",
     "title": "TUAB 与 TUEV 数据集获取手册",
     "tags": [],
