@@ -62,24 +62,24 @@
 	"currentBackgroundImageId": "98332f3349bfdf0b",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/kanada12",
-			"label": "Github",
-			"order": 1
-		},
-		{
 			"id": "email",
 			"type": "email",
 			"value": "1033230323@stu.jiangnan.edu.cn",
 			"label": "",
-			"order": 3
+			"order": 1
 		},
 		{
-			"id": "button-1774162092910",
-			"type": "bilibili",
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/kanada12",
+			"label": "Github",
+			"order": 2
+		},
+		{
+			"id": "button-1774162227423",
+			"type": "link",
 			"value": "https://space.bilibili.com/432329711?spm_id_from=333.1007.0.0",
-			"label": "",
+			"label": "bilibili",
 			"order": 3
 		}
 	],
