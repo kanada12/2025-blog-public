@@ -70,6 +70,13 @@
 			"value": "1033230323@stu.jiangnan.edu.cn",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1774161732366",
+			"type": "bilibili",
+			"value": "https://space.bilibili.com/432329711?spm_id_from=333.1007.0.0",
+			"label": "哔哩哔哩",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
