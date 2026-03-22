@@ -34,6 +34,10 @@
 		{
 			"id": "ff40f37116c386d5",
 			"url": "/images/art/ff40f37116c386d5.jpg"
+		},
+		{
+			"id": "98332f3349bfdf0b",
+			"url": "/images/art/98332f3349bfdf0b.jpg"
 		}
 	],
 	"currentArtImageId": "ff40f37116c386d5",
@@ -43,11 +47,11 @@
 			"url": ""
 		},
 		{
-			"id": "98332f3349bfdf0b",
-			"url": "/images/background/98332f3349bfdf0b.jpg"
+			"id": "ff40f37116c386d5",
+			"url": "/images/background/ff40f37116c386d5.jpg"
 		}
 	],
-	"currentBackgroundImageId": "98332f3349bfdf0b",
+	"currentBackgroundImageId": "ff40f37116c386d5",
 	"socialButtons": [
 		{
 			"id": "github",
