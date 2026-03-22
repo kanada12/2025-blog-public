@@ -1,36 +1,5 @@
 [
 	{
-		"name": "iLoveIMG",
-		"url": "https://www.iloveimg.com/zh-cn",
-		"logo": "/images/share/7e91e93e3cdd586b.svg",
-		"description": "免费图片处理网站，我经常用来压缩图片，压缩效果会比 Tinypng 更好。链式处理功能非常好用。",
-		"tags": [
-			"图片"
-		],
-		"stars": 4
-	},
-	{
-		"name": "TinyPNG",
-		"url": "https://tinypng.com/",
-		"logo": "https://tinypng.com/static/images/george-anim/large_george_x2.webp",
-		"description": "国际上比较出名的压缩图片工具，过去的书本中知晓的这个网站，但是有图片大小限制，也有数量限制。挺好的压缩图片替代品。",
-		"tags": [
-			"图片"
-		],
-		"stars": 3
-	},
-	{
-		"name": "removebg",
-		"url": "https://www.remove.bg/zh",
-		"logo": "/images/share/859bfb2ef1c6a503.svg",
-		"description": "AI 抠图工具，特点是界面简洁，效果比 windows 自带的去除背景会更好一些，缺点是有免费有导出大小限制",
-		"tags": [
-			"图片",
-			"AI"
-		],
-		"stars": 3
-	},
-	{
 		"name": "Neumorphism",
 		"url": "https://neumorphism.io/",
 		"logo": "https://neumorphism.io/apple-touch-icon.png",
@@ -210,16 +179,6 @@
 		"description": "3D icons 网站，酷酷的，免费。",
 		"tags": [
 			"Icons"
-		],
-		"stars": 3
-	},
-	{
-		"name": "Webp 转换压缩",
-		"logo": "https://www.yysuni.com/images/avatar.png",
-		"url": "https://www.yysuni.com/image-toolbox",
-		"description": "无限压缩，快且方便，可以直接对比效果",
-		"tags": [
-			"图片"
 		],
 		"stars": 3
 	},
