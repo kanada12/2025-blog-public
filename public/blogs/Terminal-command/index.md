@@ -1,4 +1,4 @@
-## 1. 使用 pip 安装 Python 包
+## 使用 pip 安装 Python 包
 
 使用清华源加速安装：
 
@@ -7,7 +7,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple 包名
 ```
 将 包名 替换为你需要安装的 Python 包名称。
 
-## 2. 使用 conda 创建虚拟环境
+## 使用 conda 创建虚拟环境
 - **方式一：** 按名称创建虚拟环境
 ```bash
 conda create -n 环境名 python=3.8
@@ -23,7 +23,13 @@ conda activate ./biot
 conda activate D:\python-code\biot
 ```
 
-## 3. 安装 PyTorch
+## conda环境下的一些命令
+- **查看安装的包**
+```bash
+conda list 包名
+```
+
+## 安装 PyTorch
 
 - **GPU 版本（以 CUDA 11.8 为例）**
 ```bash
@@ -36,7 +42,7 @@ pip install torch torchvision torchaudio
 
 根据电脑硬件选择 CPU 或 GPU 版本。
 
-## 4. 清理 pip 缓存
+## 清理 pip 缓存
 ```bash
 pip cache purge
 ```
