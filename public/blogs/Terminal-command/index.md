@@ -5,6 +5,9 @@
 ```bash
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple 包名
 ```
+```bash
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
+```
 将 包名 替换为你需要安装的 Python 包名称。
 
 ## 使用 conda 创建虚拟环境
