@@ -23,8 +23,9 @@ conda activate ./biot
 conda activate D:\python-code\biot
 ```
 
-## conda环境下的一些命令
-- **查看安装的包**
+## conda下的一些命令
+
+- **查看安装的包）**
 ```bash
 conda list 包名
 ```
