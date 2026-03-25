@@ -29,3 +29,7 @@
 - **Snipaste**
   用途：截图软件
   位置：D:\Snipaste
+
+- **Obsidian**
+  用途：论文管理
+  位置：D:\Obsidian  建立一个D:\paper作为工作区
